@@ -16,7 +16,7 @@ Support Vector Machine (SVM): Effective for both regression and classification t
 
 # Data Availability
 
-All datasets used in the models are uploaded to this repository. However, some large datasets are not included due to size limitations on GitHub. For those datasets, you will need to download them separately. Most of the datasets are available on Kaggle, and you can find them by searching for the dataset names or related keywords on the Kaggle website. Instructions for obtaining and using these datasets are provided in the respective Python files.
+All datasets used in the models are uploaded to this repository. However, some large datasets are not included due to size limitations on GitHub. For those datasets, you will need to download them separately. Most of the datasets are available on Kaggle, and you can find them by searching for the dataset names or related keywords on the Kaggle website.
 
 # Implementation Details
 ## Python Libraries:
